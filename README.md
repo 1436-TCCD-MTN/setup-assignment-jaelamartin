@@ -95,6 +95,7 @@ Cloning a repository pulls down a full copy of all the repository data that GitH
 Read more about cloning here.
 
 11:02 Monday August 25 the 1st day of class
+do work for this week
 
 A fork is another way to copy a repository, but is most commonly used when contributing to someone else’s project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects.
 
