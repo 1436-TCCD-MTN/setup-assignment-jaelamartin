@@ -92,7 +92,9 @@ When you create a repository it exists remotely outside of your local machine. Y
 
 You can clone a repository from GitHub to your local computer to make it easier to fix issues, add or remove files, and push larger commits. You can also use an IDE or editing tool of your choice as opposed to the GitHub UI. When you clone a repository, you copy the repository from GitHub to your local machine.
 Cloning a repository pulls down a full copy of all the repository data that GitHub has at that point in time, including all versions of every file and folder for the project.
-Read more about cloning here. 
+Read more about cloning here.
+
+11:02 Monday August 25 the 1st day of class
 
 A fork is another way to copy a repository, but is most commonly used when contributing to someone else’s project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects.
 
@@ -115,3 +117,5 @@ Read more about forking [here](https://docs.github.com/en/github/creating-clonin
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
